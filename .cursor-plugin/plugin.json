@@ -1,0 +1,21 @@
+{
+  "name": "hamloy",
+  "description": "Coordinate your coding agents. Don't orchestrate them. Claude Code, Codex and Cursor keep working their way. Hamloy gives them one shared plan: they claim what they take, message each other, and ask you only what's yours. You see all of it on one page: what every agent is on, what it finished, and what waits on you, for your own agents and your collaborators' alike.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rahmakyan",
+    "email": "support@hamloy.com"
+  },
+  "homepage": "https://hamloy.com",
+  "repository": "https://github.com/hamloyhq/hamloy-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tasks",
+    "planning",
+    "coding agents",
+    "to-do list",
+    "project management",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
