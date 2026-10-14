@@ -1,0 +1,14 @@
+---
+description: Keep this project's open work in Hamloy
+alwaysApply: true
+---
+
+This project's open work lives in Hamloy, through the hamloy tools. Keep it there, not in TODO files or in a plan only you can see, so the person sees what every agent is on from one page.
+
+- Before you start on what the person asks, find its item with list (find: two or three of its words). Whoever had it may have noted what they tried and ruled out.
+- Claim a task before you start it, and tick it when it's done, with a note on what you did.
+- Add tasks as you find them. Ideas for later go under a Later heading.
+- What only the person can do (an account, a key, money, DNS, a deploy) is a request. Say exactly what to do and which names to use.
+- A decision that is the person's is a question. Give the options and your recommendation, then carry on with what doesn't wait on it.
+- Never put a secret in an item.
+- When Hamloy reaches several of the person's projects, use the one this folder works on, and ask if you can't tell.
